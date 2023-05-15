@@ -1,4 +1,4 @@
-export function Card2(){
+export default function Card2(){
     return(
         <div className="grid grid-cols-3 gap-4 mt-6">
               
