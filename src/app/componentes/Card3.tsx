@@ -1,4 +1,4 @@
-export function Card3(){
+export default function Card3(){
     return(
         <div>
             <center><h1 className="mt-5">Religiões Africanas</h1></center>
